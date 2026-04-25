@@ -111,13 +111,13 @@ I have deep enthusiast in AIML, Cybersecurity, Cloud Computing and Robotics. I l
 </div>
 
 ---
+<div align="center">
 
 <!-- ── Profile Views Counter ── -->
 ![Profile Views](https://komarev.com/ghpvc/?username=vikashmehta292511&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS)
 
-<div align="center">
 
-<img src="https://raw.githubusercontent.com/vikashmehta292511/vikashmehta292511/output/github-snake.svg" alt="snake animation"/>
+
 
 ---
 
