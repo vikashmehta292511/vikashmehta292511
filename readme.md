@@ -37,6 +37,8 @@ I have deep enthusiast in AIML, Cybersecurity, Cloud Computing and Robotics. I l
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-2D9BF0?style=for-the-badge&logo=cursor&logoColor=black)
+
 
 ###  AI / ML
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
