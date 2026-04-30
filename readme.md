@@ -12,13 +12,15 @@
 
 </div>
 
----
+
 
 ## 👤 About Me
 
 I am a B.Tech CSE (AIML) grad with a strong technical foundation from a Diploma in Electrical Engineering.
 
 I have deep enthusiast in AIML, Cybersecurity, Cloud Computing and Robotics. I love building MVPs that turn theory into working systems, and my aim is to blend AI, Electrical Engineering, and Modern Computing to create scalable, real-world solutions that genuinely matter.
+
+Previously, I freelance/part-time worked as **ML Engineer(Model Trainer) at [Mercor](https://www.mercor.ai/)**, where I focused on training and refining models. 
 
 ---
 ## 🛠️ Tech Stack & Skills
@@ -34,16 +36,18 @@ I have deep enthusiast in AIML, Cybersecurity, Cloud Computing and Robotics. I l
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-2D9BF0?style=for-the-badge&logo=cursor&logoColor=black)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
 
 
 ###  AI / ML
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -66,6 +70,9 @@ I have deep enthusiast in AIML, Cybersecurity, Cloud Computing and Robotics. I l
 ###  Cybersecurity
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![ZAP](https://img.shields.io/badge/ZAP-040404?style=for-the-badge&logo=owasp&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+
 
 ---
 
@@ -78,7 +85,6 @@ I have deep enthusiast in AIML, Cybersecurity, Cloud Computing and Robotics. I l
 - Offensive Cybersecurity for CTF techniques, OWASP tooling, and penetration testing
 - Active Kaggle competitor to improve ML modeling and validation skills
 
----
 
 ## 🎯 Interests
 
@@ -88,12 +94,11 @@ I have deep enthusiast in AIML, Cybersecurity, Cloud Computing and Robotics. I l
 - Cybersecurity - CTF challenges, OWASP tools, and ethical hacking
 - Game Dev - exploring game mechanics, logic, and interactive experiences
 
----
 
 ## 💡 Goals
 
 - Master the complete AI/ML lifecycle: data engineering, model development, deployment, and monitoring
-- Rank as Kaggle Expert and build advanced proficiency in GCP or AWS and full DevOps + MLOps stack
+- Rank as Kaggle Expert and build advanced proficiency in GCP and full DevOps + MLOps stack
 - Create something practical AI systems by blending AI with Electrical Engineering knowledge
 - Become a full-stack AI engineer and indie hacker while contributing to the open-source community
 
@@ -101,7 +106,7 @@ I have deep enthusiast in AIML, Cybersecurity, Cloud Computing and Robotics. I l
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikashmehta292511@gmail.com)<!-- ── Profile Views Counter ── -->
 ![Profile Views](https://komarev.com/ghpvc/?username=vikashmehta292511&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS)
 
----
+
 
 <div align="center">
 
