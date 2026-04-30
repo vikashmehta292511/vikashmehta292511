@@ -20,7 +20,7 @@ I am a B.Tech CSE (AIML) grad with a strong technical foundation from a Diploma 
 
 I have deep enthusiast in AIML, Cybersecurity, Cloud Computing and Robotics. I love building MVPs that turn theory into working systems, and my aim is to blend AI, Electrical Engineering, and Modern Computing to create scalable, real-world solutions that genuinely matter.
 
-Previously, I freelance/part-time worked as **ML Engineer(Model Trainer) at [Mercor](https://www.mercor.ai/)**, where I focused on training and refining models. 
+Previously, I freelance/part-time worked as **MLE (AI model trainer) at Mercor**, where I focused on training and refining models. 
 
 ---
 ## 🛠️ Tech Stack & Skills
